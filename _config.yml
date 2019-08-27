@@ -3,7 +3,7 @@ title: REMO
 description: |
   REMO es una compañía dedicada a generar contenidos, realizar ideas y trabajar en colaboración.
 
-email: "<a href="mailto:hola@remoaudiovisual.cl</a>"
+email: "Contacto<a href="mailto:hola@remoaudiovisual.cl</a>"
 url: "https://remoaudiovisual.github.io/" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
