@@ -1,9 +1,8 @@
 # Site settings
 title: REMO
 description: |
-  REMO es una compañía dedicada a generar contenidos, realizar ideas y trabajar en colaboración.
-
-email: "Contacto <a href="mailto:hola@remoaudiovisual.cl</a>"
+  Remo es una compañía dedicada a generar contenidos, realizar ideas y trabajar en colaboración.
+email: Email us: <a href=\”mailto=email@gmail.com\"> email@gmail.com </a>
 url: "https://remoaudiovisual.github.io/" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
