@@ -20,10 +20,6 @@ greeting:
   sub-para5: postproducción
   link-text: TRABAJOS
   link-url: https://www.vimeo.com/remoaudiovisual/
-
-social-network-links:
-  rss: true
-  email: "pascual@remoaudiovisual.cl"
   
   # logo
   logo: /assets/img/remoaudiovisual_logo.png
@@ -35,3 +31,8 @@ markdown: kramdown
 sass:
   style: compressed
 exclude: ['README.md']
+
+
+social-network-links:
+  rss: true
+  email: "pascual@remoaudiovisual.cl"
