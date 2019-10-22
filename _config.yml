@@ -20,8 +20,7 @@ greeting:
   sub-para5: postproducción
   link-text: TRABAJOS
   link-url: https://www.vimeo.com/remoaudiovisual/
-greeting:
-  sub-para1: pascual@remoaudiovisual.cl / felipe@remoaudiovisual.cl
+
   # logo
   logo: /assets/img/remoaudiovisual_logo.png
   logo-alt: remo audio visual logo
@@ -33,7 +32,5 @@ sass:
   style: compressed
 exclude: ['README.md']
 
-
-social-network-links:
-  rss: true
-  email: "pascual@remoaudiovisual.cl"
+footer-links:
+email: pascual@remoaudiovisual.cl
