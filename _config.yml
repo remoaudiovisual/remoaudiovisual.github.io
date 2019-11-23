@@ -31,3 +31,6 @@ markdown: kramdown
 sass:
   style: compressed
 exclude: ['README.md']
+
+footer-links:
+email: Contacto: felipe@remoaudiovisual.cl / joaquin@remoaudiovisual.cl / pascual@remoaudiovisual.cl
